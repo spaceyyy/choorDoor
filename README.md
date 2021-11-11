@@ -30,9 +30,9 @@ atleast.)
 
 ### Examples of use
 
-![defaultFrontPage]()
-![winner]()
-![loser]()
+![defaultFrontPage](https://user-images.githubusercontent.com/18295073/141260035-f316ed8e-9079-490b-bf16-30cdb414eebc.PNG)
+![winner](https://user-images.githubusercontent.com/18295073/141260048-adb65663-6dc0-4d90-aac5-2bdc9b262568.PNG)
+![loser](https://user-images.githubusercontent.com/18295073/141260060-7adf1250-9099-4e33-8b8e-9a6c4cff19f4.PNG)
 
 ### Project Status
 
