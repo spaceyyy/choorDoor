@@ -4,13 +4,13 @@ Codecademy's choose and click JavaScript Game Project.
 
 ## Table of Contents
 
-+ [Introduction]
-+ [Technologies]
-+ [Examples of Use]
-+ [Project Status]
-+ [Room for Improvement]
-+ [Sources/Acknowledgements]
-+ [Contact]
++ [Introduction](https://github.com/spaceyyy/choorDoor#introduction)
++ [Technologies](https://github.com/spaceyyy/choorDoor#technologies)
++ [Examples of Use](https://github.com/spaceyyy/choorDoor#examples-of-use)
++ [Project Status](https://github.com/spaceyyy/choorDoor#project-status)
++ [Room for Improvement](https://github.com/spaceyyy/choorDoor#room-for-improvement)
++ [Sources/Acknowledgements](https://github.com/spaceyyy/choorDoor#sourcesacknowledgements)
++ [Contact](https://github.com/spaceyyy/choorDoor#contact)
 
 ## Introduction
 
