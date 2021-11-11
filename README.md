@@ -16,7 +16,7 @@ Codecademy's choose and click JavaScript Game Project.
 
 A choose and click adventure game introduced from Codecademy's website that takes the user throughout a journey. A journey through different doors, but also a journey learning multiple coding languages. Can you navigate throughout the game and 
 choose the proper door towards freedom and safety, or will the Choordoor Bot bring you to justice. (Justice in it's eyes
-atleast.) Link for the Choor Door Game: [choor-door](https://spaceyyy.github.io/choreDoorGame/choreDoor.html)
+atleast.) Link for the Choor Door Game: [choor-door](https://spaceyyy.github.io/choreDoor/choreDoor.html)
 
 ### Technologies
 
