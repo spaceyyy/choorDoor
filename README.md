@@ -20,16 +20,34 @@ atleast.)
 
 ### Technologies
 
-
++ VS Code
++ Brackets
++ HTML
++ CSS 
++ Git/Github
++ Git Bash
++ Chrome Developer Tools
 
 ### Examples of use
 
+![defaultFrontPage]()
+![winner]()
+![loser]()
+
 ### Project Status
+
+Finished Codecademy's version. Would like to add additional functionality in the future.
 
 ### Room for Improvement
 
+__Todo:__
++ check NOTES.txt
+
 ### Sources/Acknowledgements
 
+Thanks to Codecademy and FreeCodeCamp for their lessons on HTML and CSS to gain knowledge to understand, recreate, and create a version of your own for this project. I also would like to
+thank Google for the countless hours saved through Chrome Developer Tools for debugging purposes.
+I also received a leg up through the Head First book Series.
 
 ### Contact
 
@@ -38,7 +56,3 @@ Feel free to contact me! (link/website coming soon)
 https://www.codecademy.com/profiles/mickey_mick
 
 https://github.com/spaceyyy
-
-
-# choreDoorGame
-# choreDoorGame
